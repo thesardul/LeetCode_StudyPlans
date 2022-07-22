@@ -1,4 +1,4 @@
-package com.thesardul.StudyPlan.DataStructure.DataStructure_I.Array.Day1;
+package com.thesardul.StudyPlan.DataStructure.DataStructure_I.Day1.Array;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.thesardul.StudyPlan.DataStructure.DataStructure_I.Array.Day1;
+package com.thesardul.StudyPlan.DataStructure.DataStructure_I.Day1.Array;
 
 public class MaximumSubArrayLargestSum {
     public static void main(String[] args) {
