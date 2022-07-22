@@ -1,4 +1,4 @@
-package com.thesardul.StudyPlan.ProgrammingSkills.ProgrammingSkills_1.basicDataType;
+package com.thesardul.StudyPlan.ProgrammingSkills.ProgrammingSkills_1.Day1;
 
 public class CountOddNumber {
     public static void main(String[] args) {
